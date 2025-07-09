@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Clarity That Scales",
+    "subtitle": "Dashboards that actually drive growth.",
+    "cta": "See It Live",
+    "image": "/images/dashboard.png"
+  },
+  {
+    "title": "Automate Everything",
+    "subtitle": "From leads to invoicing, one platform.",
+    "cta": "Start Free",
+    "image": "/images/automation.png"
+  },
+  {
+    "title": "Insights in Real Time",
+    "subtitle": "No delays. Just data that works.",
+    "cta": "View Demo",
+    "image": "/images/insights.png"
+  }
+]

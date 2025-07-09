@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "📊",
+    "title": "Live Insights",
+    "description": "Your KPIs, updated by the second."
+  },
+  {
+    "icon": "⚡",
+    "title": "Instant Alerts",
+    "description": "Get notified as it happens."
+  },
+  {
+    "icon": "🤖",
+    "title": "Smart Automation",
+    "description": "Save time and reduce manual work."
+  }
+]
