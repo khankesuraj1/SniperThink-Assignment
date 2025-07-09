@@ -6,11 +6,6 @@ SniperThink is a responsive, modern SaaS landing page built using **Vite + React
 
 ---
 
-## 🌐 Live Demo
-
-> [Link to Live Deployment](#) <!-- Replace with actual link after deploying -->
-
----
 
 ## 📸 Screenshots
 
